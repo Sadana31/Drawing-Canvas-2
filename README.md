@@ -1,2 +1,2 @@
-# Drawing-Canvas-2
-Part 3 of my Drawing Canvas
+# p5.play-boilerplate
+Boiler plate for p5.play
